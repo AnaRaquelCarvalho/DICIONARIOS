@@ -1,0 +1,2 @@
+# DICIONARIOS
+ Variáveis Compostas
