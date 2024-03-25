@@ -15,4 +15,4 @@ print(f'==> O jogador {cadastro["jogador"]} jogou {partidas} partidas.')
 for cont, jogos in enumerate(contador):
     print(f'==> Na {cont+1}ª partida, fez {jogos} gols.')   
 print(f'==> {sum(contador)} Gols no TOTAL.')
-print('='*60)
+print('='* 60)
