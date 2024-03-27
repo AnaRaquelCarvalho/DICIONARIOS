@@ -19,5 +19,6 @@ print(' ')
 print('-='*5, ' RANKING DOS JOGADORES ','-='*5)
 for cont, vencedor in enumerate(ranking):
     sleep(1)
-    print(f'{cont+1}º LUGAR {vencedor[0]} >> com {vencedor[1]} no PONTOS no DADO.')
+    print(f'{cont+1}º LUGAR') 
+    print(f'{vencedor[0]} >> com {vencedor[1]} no PONTOS no DADO.')
 print('-='*23)
